@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyber Beast</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Cyber-Dragon2](https://github.com/Cyber-Dragon2)
+- 👨‍💻 All of my other projects are available at [https://github.com/Cyber-Dragon2](https://github.com/Cyber-Dragon2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
