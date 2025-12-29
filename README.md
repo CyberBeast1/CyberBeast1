@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritpal-singh-4a4128281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyberdart1410@gmail.com) 
-[![github](https://img.shields.io/badge/Github?logo=github&logoColor=white)](https://github.com/cyber-dragon2) 
+[![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyber-dragon2) 
 
 
 # 💻 Tech Stack:
